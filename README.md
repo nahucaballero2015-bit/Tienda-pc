@@ -1,4 +1,4 @@
-# 🛒 Tienda de Componentes PC
+8# 🛒 Tienda de Componentes PC
 
 Bienvenido a mi catálogo de productos.  
 Todos los items están en **excelente estado** y listos para usar.  
@@ -12,7 +12,34 @@ Todos los items están en **excelente estado** y listos para usar.
 ### 🟢 Placa Madre Gigabyte GA-880GM-UD2H
 - 💰 **Precio:** $38.000  
 - 📌 **Estado:** Impecable, funciona perfectamente  
-- 🛠 **Ideal para:** armar PC económica o repuesto  
+- 🛠 **Ideal para:** armar PC económica o repuesto 
+
+
+# 🛒 Catálogo de productos a la venta
+
+Bienvenido a mi catálogo de artículos de segunda mano.  
+Para comprar o consultar, contactame por WhatsApp haciendo clic en el enlace correspondiente.
+
+---
+
+| Producto | Foto | Precio | Contacto |
+|----------|------|--------|----------|
+| CPU Intel Core 2 Quad Q6600 | ![CPU Intel](imagenes/cpu-core2quad.jpg) | $20.000 | [WhatsApp](https://wa.me/54911XXXXXXX) |
+| Notebook Asus GL702V (carcasa) | ![Asus GL702V](imagenes/asus-gl702v.jpg) | $15.000 | [WhatsApp](https://wa.me/54911XXXXXXX) |
+| Dell Inspiron 1525 | ![Dell Inspiron](imagenes/dell-inspiron1525.jpg) | $15.000 | [WhatsApp](https://wa.me/54911XXXXXXX) |
+| Intel Pentium Dual-Core E5200 | ![Pentium E5200](imagenes/pentium-e5200.jpg) | $20.000 | [WhatsApp](https://wa.me/54911XXXXXXX) |
+| AMD Phenom II X2 555 | ![Phenom II X2 555](imagenes/amd-phenom-ii.jpg) | $50.000 | [WhatsApp](https://wa.me/54911XXXXXXX) |
+| Placa madre Gigabyte GA-880GM-UDH + FX 6100 | ![GA-880GM-UDH](imagenes/ga880gm-udh.jpg) | $65.000 | [WhatsApp](https://wa.me/54911XXXXXXX) |
+
+---
+
+### 🔹 Cómo agregar más productos
+Para agregar más artículos, solo agregá una nueva fila siguiendo este formato:
+
+| Producto | Foto | Precio | Contacto |
+|----------|------|--------|----------|
+| Nombre del producto | ![Imagen](imagenes/nombre-imagen.jpg) | $XXX | [WhatsApp](https://wa.me/54911XXXXXXX) |
+
 
 
 
